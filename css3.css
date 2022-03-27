@@ -1,21 +1,12 @@
-/*outer box for the content*/
-    .outerbox{
-        width: 840px;
-        height: 540px;
-        border: 1px solid black;
-        position: absolute;
-        margin-left: 230px;
-        margin-top: 80px;
-        }
-    /*innerbox design and styling*/
+ /*innerbox design and styling*/
     .innerbox
         {
         width: 800px;
-        height: 500px;
+        margin:0 auto;
         border: 1px solid black;
-        position: absolute;
-        margin-left: 250px;
-        margin-top: 100px;
+        height: 500px;
+        padding:10px;
+        
         }
     /*column 1*/
     .box1
